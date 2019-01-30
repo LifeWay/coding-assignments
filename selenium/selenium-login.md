@@ -8,7 +8,7 @@ Your example must do the following:
 * Implement for multiple browsers
 * Implement Assertions
 * Utilize Page Object Design Pattern
-* You must use the tools - Gradle, TestNG, Selenium 3+ 
+* You must use the tools - Gradle, TestNG or JUnit 5, Selenium 3+ 
 
 Testing Scope: 
 * Functional/E2E Tests
