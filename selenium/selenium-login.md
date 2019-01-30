@@ -5,7 +5,7 @@ Create the number of tests you think is necessary to test the feature for [the i
 
 Your example must do the following:
 * Implement in Java
-* Implement for Chrome
+* Implement for multiple browsers
 * Implement Assertions
 * Utilize Page Object Design Pattern
 * You must use the tools - Gradle, TestNG, Selenium 3+ 
